@@ -152,7 +152,7 @@ footer {
    height: max-content;
 }
 
-.image_1{
+/* .image_1{
   background: url(img/01.jpg)center/cover no-repeat;
   width: 150px;
   height: 300px;
@@ -174,4 +174,4 @@ footer {
   justify-content: space-between;
   flex-direction: row;
   z-index: 0;
-}
+} */
