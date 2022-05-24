@@ -156,16 +156,21 @@ footer {
   background: url(img/01.jpg)center/cover no-repeat;
   width: 150px;
   height: 300px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
 }
 
 .image_2{
   background: url(img/02.jpg)center/cover no-repeat;
   width: 150px;
   height: 300px;
+}
+
+.image_3{
+  background: url(img/03.jpg);
+  width: 150px;
+  height: 300px;
+}
+.flex_image{
   display: flex;
-  flex-direction:row;
-  justify-content: space-evenly;
+  justify-content: space-between;
+  flex-direction: row;
 }
