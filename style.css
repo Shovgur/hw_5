@@ -111,6 +111,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
   
 
@@ -149,6 +150,14 @@ footer {
    width: 90%; 
    font-family: "Smooch", cursive;
    height: max-content;
+}
+
+.image_page_2{
+  width: 1px;
+  height: 1px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 }
 
 
